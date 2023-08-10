@@ -74,7 +74,7 @@ We can see a climatic change in the fog, and it's impact on local environment.
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.24.37.png?raw=true)
 
 ### 3)visualisation 
-![chart]()
+![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.53.36.png?raw=true)
 
 
 
