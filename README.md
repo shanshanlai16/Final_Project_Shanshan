@@ -11,16 +11,26 @@ My research on related scientific studies shows that, the dissipation of fog in 
 ## Sourcing
 I researched [weather data from two of NOAA's Bay Area stations](https://www.ncei.noaa.gov/access/monitoring/monthly-report/), which is one in Richmond, another in Half Moon Bay. Richmond is situated in the western part of California's United States, positioned along the eastern shores of the San Francisco Bay. Half Moon Bay is located on the Pacific coast of California, south of San Francisco and San Mateo, nestled between the rugged coastline and the Santa Cruz Mountains.
 Here is where i got data about temperature in summer in Bay area, and i requested the temperature of California and the whole states too, to dig more information behind. 
-[searching tool of temperature in different areas](https://www.ncei.noaa.gov/access/search/dataset-search?text=)
+Searching tool of [temperature in different areas](https://www.ncei.noaa.gov/access/search/dataset-search?text=)
 [Climate Data Online Search](https://www.ncei.noaa.gov/cdo-web/search?datasetid=NORMAL_MLY)
 
 ### Research
 Here are report and articles about climate change impacts on Bay Area fog, and local ecology.
-  *[Any truth to the rumors that San Francisco is losing its fog?](https://www.sfgate.com/local/article/karl-the-fog-17752046.php)
-  *[Clearing and Present Danger? Fog That Nourishes California Redwoods Is Declining](https://www.scientificamerican.com/article/fog-that-nourishes-california-redwoods-declining/)
-  *[The Deep, Cold Secret Behind Summer Fog](https://www.kqed.org/quest/22340/the-deep-cold-secret-behind-summer-fog)
+  * [Any truth to the rumors that San Francisco is losing its fog?](https://www.sfgate.com/local/article/karl-the-fog-17752046.php)
+  * [Clearing and Present Danger? Fog That Nourishes California Redwoods Is Declining](https://www.scientificamerican.com/article/fog-that-nourishes-california-redwoods-declining/)
+  * [The Deep, Cold Secret Behind Summer Fog](https://www.kqed.org/quest/22340/the-deep-cold-secret-behind-summer-fog)
 
 ### Potential Interview Contacts
+#### 1) John Paul Marcelo
+ 
+ John Paul Marcelo is a plein air artist and local also in California. He loves painting fog and cloud in San Francisco and being doing this for 10 years.Landscape paintings are Marcelo's bread and butter.
+  * mobile:‭(773) 590-1437‬
+  * email: jpmarcelo@jpmarcelo.com
+
+#### 2) James Johnstone
+Ph.D. climatologist with expertise in the spatio-temporal analysis, statistical-physical modeling and applied interpretation of large weather and climate datasets. Proven record as a leader of groundbreaking, high-impact research in the areas of modern climate variability, biological applications and climate change.
+* mobile:206-850-8130
+* email: johnstone@cfanclimate.com
 
 ## Data Visualizations
 
