@@ -42,12 +42,14 @@ Ph.D. climatologist with expertise in the spatio-temporal analysis, statistical-
 
 ### 1)Foggy Days of the Year in the Bay Area from 1948-2023 
 [Foggy Days of the Year in the Bay Area from 1948-2023](https://datawrapper.dwcdn.net/JOiEz/2/)
+
 ![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/JOiEz-foggy-days-of-the-year-in-the-bay-area-from-1948-2023.png?raw=true)<br>
 
 from the visualizations: You can notice a gradual decrease in the amount of fog over a 70 year period. Even in Half Moon Bay, which is famous for its fog.
 
 ### 2)Bay Area Average Temperature in Summer From 1948-2023
 [Bay Area Average Temperature in Summer From 1948-2023](https://datawrapper.dwcdn.net/Gtw97/2/)
+
 ![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023.png?raw=true)<br>
 
 Throughout, the summer weather in the Bay Area is cooler compared to California as a whole and the US as a whole due to the fog, but the Bay Area's temperature rises faster than California as a whole and the US as a whole.
@@ -66,14 +68,18 @@ We can see a climatic change in the fog, and it's impact on local environment.
 
 ### 1) request Data from NOAA
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.44.56.png?raw=true)
+
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.44.49.png?raw=true)
 
 ### 2) clearn and filter
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.42.11.png?raw=true)
+
 ![chrt](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.41.42.png?raw=true)
+
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.24.37.png?raw=true)
 
 ### 3)visualisation 
+
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.53.36.png?raw=true)
 
 
