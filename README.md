@@ -15,4 +15,4 @@ I researched [weather data from two of NOAA's Bay Area stations](https://www.nce
 
 ### 1) 
 ![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/JOiEz-foggy-days-of-the-year-in-the-bay-area-from-1948-2023.png?raw=true)
-![choropleth]()
+![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023.png?raw=true)
