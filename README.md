@@ -55,11 +55,16 @@ Throughout, the summer weather in the Bay Area is cooler compared to California 
 ### 3)Story behind data
 
 Fog as "ocean air conditioning" that brings both cooling and moisture to the Bay Area during the hottest and driest part of the year.
-According to science research, the fog's benefits extend widely. Agricultural regions like the Salinas Valley, where fog reaches 75 km inland, safeguard crops like lettuce and strawberries from sun damage. Wine regions, Sonoma and Napa, also gain as fog navigates through San Francisco Bay and the Petaluma Gap. Coastal-restricted species, such as coast redwoods, thrive, receiving up to a third of their water from fog. The realization that plants in foggy forests can absorb water through their leaves transformed our view of fog's ecological role. For low-flow coastal streams, fog drip rescues salmonids from drying out in the Mediterranean dry season.The more coastal nature reserves in the North Bay, the more vulnerable they are to climate change, according to scientists' estimates. We can see a climatic change in the fog, and it's impact.
+According to science research, the fog's benefits extend widely. Agricultural regions like the Salinas Valley, where fog reaches 75 km inland, safeguard crops like lettuce and strawberries from sun damage. Wine regions, Sonoma and Napa, also gain as fog navigates through San Francisco Bay and the Petaluma Gap. Coastal-restricted species, such as coast redwoods, thrive, receiving up to a third of their water from fog. The realization that plants in foggy forests can absorb water through their leaves transformed our view of fog's ecological role. 
 
+For low-flow coastal streams, fog drip rescues salmonids from drying out in the Mediterranean dry season.The more coastal nature reserves in the North Bay, the more vulnerable they are to climate change, according to scientists' estimates.
+
+We can see a climatic change in the fog, and it's impact on local environment.
+<br>
 
 ## Process 
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.24.37.png?raw=true)
+
 
 
 
