@@ -30,7 +30,7 @@ This article explores the phenomenon of summer fog in the Bay Area, focusing on 
 #### 1) John Paul Marcelo
  
  John Paul Marcelo is a plein air artist and local also in California. He loves painting fog and cloud in San Francisco and being doing this for 10 years.Landscape paintings are Marcelo's bread and butter.
-  * mobile:‭ 773 590-1437
+  * mobile:‭ 773-590-1437
   * email: jpmarcelo@jpmarcelo.com
 
 #### 2) James Johnstone
@@ -44,8 +44,14 @@ Ph.D. climatologist with expertise in the spatio-temporal analysis, statistical-
 [Foggy Days of the Year in the Bay Area from 1948-2023](https://datawrapper.dwcdn.net/JOiEz/2/)
 ![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/JOiEz-foggy-days-of-the-year-in-the-bay-area-from-1948-2023.png?raw=true)<br>
 
+from the visualizations: You can notice a gradual decrease in the amount of fog over a 70 year period. Even in Half Moon Bay, which is famous for its fog.
+
 ### 2)Bay Area Average Temperature in Summer From 1948-2023
 [Bay Area Average Temperature in Summer From 1948-2023](https://datawrapper.dwcdn.net/Gtw97/2/)
 ![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023.png?raw=true)<br>
+
+Throughout, the summer weather in the Bay Area is cooler compared to California as a whole and the US as a whole due to the fog, but the Bay Area's temperature rises faster than California as a whole and the US as a whole.
+
+
 
 
