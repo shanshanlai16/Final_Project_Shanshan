@@ -18,10 +18,10 @@ Searching tool of [temperature in different areas](https://www.ncei.noaa.gov/acc
 Here are report and articles about climate change impacts on Bay Area fog, and local ecology.
   * [Any truth to the rumors that San Francisco is losing its fog?](https://www.sfgate.com/local/article/karl-the-fog-17752046.php)
 
-    The Bay Area experiences summer fog due to cold water along the California coast. Cold water from the California Current and upwelling cools the air, causing moisture to condense into fog. Winds and the Earth's rotation create upwelling, bringing nutrient-rich cold water to the surface. This process supports marine life and kelp forests. Fog forms as warm land air rises, drawing in the foggy ocean air. However, fog has decreased by 33% in 60 years due to weakening upwelling caused by global warming. Warmer surface layers hinder mixing with cold water, reducing fog production. This decline, impacting San Francisco's iconic fog, is attributed to climate change
+The Bay Area experiences summer fog due to cold water along the California coast. Cold water from the California Current and upwelling cools the air, causing moisture to condense into fog. Winds and the Earth's rotation create upwelling, bringing nutrient-rich cold water to the surface. This process supports marine life and kelp forests. Fog forms as warm land air rises, drawing in the foggy ocean air. However, fog has decreased by 33% in 60 years due to weakening upwelling caused by global warming. Warmer surface layers hinder mixing with cold water, reducing fog production. This decline, impacting San Francisco's iconic fog, is attributed to climate change
   * [Clearing and Present Danger? Fog That Nourishes California Redwoods Is Declining](https://www.scientificamerican.com/article/fog-that-nourishes-california-redwoods-declining/)
-  
-  The towering California redwoods, Earth's tallest trees, rely on coastal fog for their growth, but new research suggests this fog is diminishing. Climatologist James Johnstone and biologist Todd Dawson from UC Berkeley studied data from weather stations and airports along the northern California coast, where these massive trees thrive. Airport ceiling height measurements revealed a 30% decrease in fog over six decades. Redwoods, concentrated along California's northern coast, utilize fog in summer to capture moisture through specialized leaves, aiding growth in the dry season. Fog covers leaves and enters pores, moving water to roots—a unique process among trees. This fog loss poses concerns for redwood forests.
+
+The towering California redwoods, Earth's tallest trees, rely on coastal fog for their growth, but new research suggests this fog is diminishing. Climatologist James Johnstone and biologist Todd Dawson from UC Berkeley studied data from weather stations and airports along the northern California coast, where these massive trees thrive. Airport ceiling height measurements revealed a 30% decrease in fog over six decades. Redwoods, concentrated along California's northern coast, utilize fog in summer to capture moisture through specialized leaves, aiding growth in the dry season. Fog covers leaves and enters pores, moving water to roots—a unique process among trees. This fog loss poses concerns for redwood forests.
   * [The Deep, Cold Secret Behind Summer Fog](https://www.kqed.org/quest/22340/the-deep-cold-secret-behind-summer-fog)
 
 This article explores the phenomenon of summer fog in the Bay Area, focusing on the Pacific Ocean's role. Cold water off the Northern California coast leads to fog formation as it cools the air above. The region's cold waters result from the California Current and upwelling, where deep ocean water surfaces due to coastal winds and Earth's rotation. Nutrient-rich upwelling sustains marine life and kelp forests. Fog forms as this cold air meets warmer land, condensing moisture. However, fog has decreased 33% in 60 years, partly due to weakened upwelling from global warming. Warmer surface layers hinder upwelling, reducing fog production and altering the iconic San Francisco summer fog.
@@ -29,7 +29,7 @@ This article explores the phenomenon of summer fog in the Bay Area, focusing on 
 ### Potential Interview Contacts
 #### 1) John Paul Marcelo
  
- John Paul Marcelo is a plein air artist and local also in California. He loves painting fog and cloud in San Francisco and being doing this for 10 years.Landscape paintings are Marcelo's bread and butter.
+John Paul Marcelo is a plein air artist and local also in California. He loves painting fog and cloud in San Francisco and being doing this for 10 years.Landscape paintings are Marcelo's bread and butter.
   * mobile:‭ 773-590-1437
   * email: jpmarcelo@jpmarcelo.com
 
@@ -51,6 +51,12 @@ from the visualizations: You can notice a gradual decrease in the amount of fog 
 ![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023.png?raw=true)<br>
 
 Throughout, the summer weather in the Bay Area is cooler compared to California as a whole and the US as a whole due to the fog, but the Bay Area's temperature rises faster than California as a whole and the US as a whole.
+
+### 3)Story behind data
+
+Fog as "ocean air conditioning" that brings both cooling and moisture to the Bay Area during the hottest and driest part of the year.
+According to science research, the fog's benefits extend widely. Agricultural regions like the Salinas Valley, where fog reaches 75 km inland, safeguard crops like lettuce and strawberries from sun damage. Wine regions, Sonoma and Napa, also gain as fog navigates through San Francisco Bay and the Petaluma Gap. Coastal-restricted species, such as coast redwoods, thrive, receiving up to a third of their water from fog. The realization that plants in foggy forests can absorb water through their leaves transformed our view of fog's ecological role. For low-flow coastal streams, fog drip rescues salmonids from drying out in the Mediterranean dry season.The more coastal nature reserves in the North Bay, the more vulnerable they are to climate change, according to scientists' estimates. We can see a climatic change in the fog, and it's impact.
+
 
 ## Process 
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.24.37.png?raw=true)
