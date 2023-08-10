@@ -9,10 +9,27 @@ I compared the change in summer temperatures in the Bay Area from 1948 to 2023, 
 My research on related scientific studies shows that, the dissipation of fog in the Bay Area over 70 years can be attributed to a combination of natural and anthropogenic factors. Changes in regional climate patterns, including shifts in ocean temperatures and atmospheric circulation, have influenced fog formation and dispersal. Additionally, urbanization and industrial activities may have altered local microclimates through heat and pollution emissions. These factors collectively impact fog frequency and intensity. 
 
 ## Sourcing
-I researched [weather data from two of NOAA's Bay Area stations](https://www.ncei.noaa.gov/access/monitoring/monthly-report/), which is one in Richmond, another in Half Moon Bay. Richmond is situated in the western part of California's United States, positioned along the eastern shores of the San Francisco Bay. Half Moon Bay is located on the Pacific coast of California, south of San Francisco and San Mateo, nestled between the rugged coastline and the Santa Cruz Mountains.[searching tool of temperature in different areas](https://www.ncei.noaa.gov/access/search/dataset-search?text=)
+I researched [weather data from two of NOAA's Bay Area stations](https://www.ncei.noaa.gov/access/monitoring/monthly-report/), which is one in Richmond, another in Half Moon Bay. Richmond is situated in the western part of California's United States, positioned along the eastern shores of the San Francisco Bay. Half Moon Bay is located on the Pacific coast of California, south of San Francisco and San Mateo, nestled between the rugged coastline and the Santa Cruz Mountains.
+Here is where i got data about temperature in summer in Bay area, and i requested the temperature of California and the whole states too, to dig more information behind. 
+[searching tool of temperature in different areas](https://www.ncei.noaa.gov/access/search/dataset-search?text=)
+[Climate Data Online Search](https://www.ncei.noaa.gov/cdo-web/search?datasetid=NORMAL_MLY)
+
+### Research
+Here are report and articles about climate change impacts on Bay Area fog, and local ecology.
+  *[Any truth to the rumors that San Francisco is losing its fog?](https://www.sfgate.com/local/article/karl-the-fog-17752046.php)
+  *[Clearing and Present Danger? Fog That Nourishes California Redwoods Is Declining](https://www.scientificamerican.com/article/fog-that-nourishes-california-redwoods-declining/)
+  *[The Deep, Cold Secret Behind Summer Fog](https://www.kqed.org/quest/22340/the-deep-cold-secret-behind-summer-fog)
+
+### Potential Interview Contacts
 
 ## Data Visualizations
 
-### 1) 
-![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/JOiEz-foggy-days-of-the-year-in-the-bay-area-from-1948-2023.png?raw=true)
-![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023.png?raw=true)
+### 1)Foggy Days of the Year in the Bay Area from 1948-2023 
+[Foggy Days of the Year in the Bay Area from 1948-2023](https://datawrapper.dwcdn.net/JOiEz/2/)
+![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/JOiEz-foggy-days-of-the-year-in-the-bay-area-from-1948-2023.png?raw=true)<br>
+
+### 2)Bay Area Average Temperature in Summer From 1948-2023
+[Bay Area Average Temperature in Summer From 1948-2023](https://datawrapper.dwcdn.net/Gtw97/2/)
+![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023.png?raw=true)<br>
+
+
