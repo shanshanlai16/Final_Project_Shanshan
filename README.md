@@ -53,6 +53,7 @@ from the visualizations: You can notice a gradual decrease in the amount of fog 
 Throughout, the summer weather in the Bay Area is cooler compared to California as a whole and the US as a whole due to the fog, but the Bay Area's temperature rises faster than California as a whole and the US as a whole.
 
 ## Process 
+![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.24.37.png?raw=true)
 
 
 
