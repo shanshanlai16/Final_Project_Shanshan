@@ -63,7 +63,19 @@ We can see a climatic change in the fog, and it's impact on local environment.
 <br>
 
 ## Process 
+
+### 1) request Data from NOAA
+![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.44.56.png?raw=true)
+![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.44.49.png?raw=true)
+
+### 2) clearn and filter
+![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.42.11.png?raw=true)
+![chrt](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.41.42.png?raw=true)
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.24.37.png?raw=true)
+
+### 3)visualisation 
+![chart]()
+
 
 
 
