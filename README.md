@@ -77,7 +77,9 @@ We can see a climatic change in the fog, and it's impact on local environment.
 ![1](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-11%20at%2021.09.30.png?raw=true)
 ![2](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-11%20at%2021.36.12.png?raw=true)
 #### question 2: What's the highest average summer temperature of states? And when? 
-2012 
+2012 76.8F
+![3](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-11%20at%2021.43.42.png?raw=true)
+
 #### question 3: filte it to only shows data from 1948-2023? 
 ![chrt](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.41.42.png?raw=true)
 #### question 4: Creat a vlookup so that if you enter the year, it will show you average fog days in following 5 years(1950-2018)
