@@ -64,7 +64,7 @@ For low-flow coastal streams, fog drip rescues salmonids from drying out in the 
 We can see a climatic change in the fog, and it's impact on local environment.
 <br>
 
-## Process 
+## Data analysis
 
 ### 1) request Data from NOAA
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.44.56.png?raw=true)
@@ -72,9 +72,15 @@ We can see a climatic change in the fog, and it's impact on local environment.
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.44.49.png?raw=true)
 
 ### 2) clearn and filter
+#### question 1: What's the average summer temperature of Bay Area between 1950-1960? and between 2010-2020?
+#### question 2: What's the highest average summer temperature of states? And when? 
+#### question 3: filte it to only shows data from 1948-2023? 
+![chrt](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.41.42.png?raw=true)
+#### question 4: Creat a vlookup so that if you enter the year, it will show you average fog days in following 5 years(1950-2018)
+#### question 5: How many years that have over 50 fog days in half moon bay?
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.42.11.png?raw=true)
 
-![chrt](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.41.42.png?raw=true)
+
 
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.24.37.png?raw=true)
 
