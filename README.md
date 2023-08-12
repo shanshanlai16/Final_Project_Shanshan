@@ -50,7 +50,7 @@ from the visualizations: You can notice a gradual decrease in the amount of fog 
 ### 2)Bay Area Average Temperature in Summer From 1948-2023
 [Bay Area Average Temperature in Summer From 1948-2023](https://datawrapper.dwcdn.net/Gtw97/2/)
 
-![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023.png?raw=true)<br>
+![choropleth](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Gtw97-bay-area-average-temperature-in-summer-from-1948-2023-2.png?raw=true)<br>
 
 Throughout, the summer weather in the Bay Area is cooler compared to California as a whole and the US as a whole due to the fog, but the Bay Area's temperature rises faster than California as a whole and the US as a whole.
 
@@ -84,6 +84,7 @@ We can see a climatic change in the fog, and it's impact on local environment.
 ![chrt](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.41.42.png?raw=true)
 #### question 4: Creat a vlookup so that if you enter the year, it will show you average fog days in following 5 years(1950-2018)
 #### question 5: How many years that have over 50 fog days in half moon bay?
+12years
 ![chart](https://github.com/shanshanlai16/Final_Project_Shanshan/blob/main/Screenshot%202023-08-10%20at%2009.42.11.png?raw=true)
 
 
